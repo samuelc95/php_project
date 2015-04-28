@@ -245,7 +245,7 @@
                                     <a href="tables.php"><i class="fa fa-th-list "></i> Lista de Encomendas</a>
                                 </li>
                                 <li>
-                                    <a href="flot.html"><i class="fa fa-shopping-cart"></i> Transportadoras</a>
+                                    <a href="transportadoras.php"><i class="fa fa-shopping-cart"></i> Transportadoras</a>
                                 </li>
                             </ul>
                             <!-- /.nav-second-level -->
